@@ -1,6 +1,6 @@
 # Exercício POO - Banda Escolar
 
-**Aluno:**  Allyson
+**Aluno:**  Allyson de Santana Almeida
 
 ## Parte 2 - Perguntas de Extração
 
